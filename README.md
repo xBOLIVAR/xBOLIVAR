@@ -39,6 +39,30 @@
 </p>
 
 <!-- Details Section -->
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="xBOLIVAR's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=xBOLIVAR&show_icons=true&theme=radical" />
+        <br>
+        <br>
+        <!-- Social Links -->
+        <samp>Find me on</samp>
+        <br>
+        <br>
+        <!-- Mail -->
+        <a href="mailto:jonathanflores2003@gmail.com" target="_blank"><img alt="Mail"
+                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/jonathan-camilo-florez-bolivar-8876a2211/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+    </p>
+</details>
+<br>
 
 <!-- Footer -->
 <samp>
@@ -46,7 +70,7 @@
         ════ ⋆★⋆ ════
     </p>
     <div align="center">
-      <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'
+      <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'
     </div>    
 </samp>
 
