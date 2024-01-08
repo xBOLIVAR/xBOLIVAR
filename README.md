@@ -33,9 +33,13 @@
         <a href="https://github.com/xBOLIVAR?tab=repositories" target="_blank"><img alt="TailwindCSS"
                         src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white">
         </a>
-        <!-- Arduino -->
+        <!-- Linux -->
         <a href="https://github.com/xBOLIVAR?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+                        src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+        </a>
+        <!-- NeoVim -->
+        <a href="https://github.com/xBOLIVAR?tab=repositories" target="_blank"><img alt="Arduino"
+                        src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white">
         </a>
 </p>
 
