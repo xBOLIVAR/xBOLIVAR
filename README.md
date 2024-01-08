@@ -11,7 +11,8 @@
         <samp>
                 「 I'm a software developer 」
                 <br>
-                「 Focused on creating impactful web applications</b> 」
+                「 Greetings! I am a Full Stack web developer with a year and a half of hands-on experience, <br>
+                        specializing in TypeScript and Java technologies 」
                 <br>
                 <br>
         </samp>
