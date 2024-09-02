@@ -12,7 +12,7 @@
                 「 I'm a software developer 」
                         <!-- Social Links -->
                 <br>
-                「 Greetings! I am a Full Stack web developer with a year and a half of hands-on experience, <br>
+                「 Greetings! I am a Full Stack web developer with three years of experience, <br>
                         specializing in TypeScript and Java technologies 」
                 <br>
                 <br>
