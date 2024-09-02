@@ -10,14 +10,31 @@
         <!-- Intro -->
         <samp>
                 「 I'm a software developer 」
+                        <!-- Social Links -->
                 <br>
                 「 Greetings! I am a Full Stack web developer with a year and a half of hands-on experience, <br>
                         specializing in TypeScript and Java technologies 」
                 <br>
                 <br>
         </samp>
+        <samp>Find me on</samp>
+        <br>
+        <br>
+        <!-- Mail -->
+        <a href="mailto:jonathanflores2003@gmail.com" target="_blank"><img alt="Mail"
+                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/jonathan-camilo-florez-bolivar-8876a2211/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+        <br>
+        <br>
+        <samp>「 Technologies 」</samp>
         <!-- Technologies -->
         <!-- JavaScript -->
+        <br>
+        <br>
         <a href="https://github.com/xBOLIVAR?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
@@ -53,18 +70,6 @@
                 src="https://github-readme-stats.vercel.app/api?username=xBOLIVAR&show_icons=true&theme=radical" />
         <br>
         <br>
-        <!-- Social Links -->
-        <samp>Find me on</samp>
-        <br>
-        <br>
-        <!-- Mail -->
-        <a href="mailto:jonathanflores2003@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/jonathan-camilo-florez-bolivar-8876a2211/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
     </p>
 </details>
 <br>
